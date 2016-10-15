@@ -1,0 +1,39 @@
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe.config
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csprojResolveAssemblyReference.cache
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.FM_Main.resources
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.Properties.Resources.resources
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csproj.GenerateResource.Cache
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\СonvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.pdb
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe.config
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.exe
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.pdb
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.pdb
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.FM_Main.resources
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.Properties.Resources.resources
+D:\Projects\Visual Studio projects\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csproj.GenerateResource.Cache
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe.config
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csprojResolveAssemblyReference.cache
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.FM_Main.resources
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.Properties.Resources.resources
+D:\Projects\VSProj\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csproj.GenerateResource.Cache
+D:\Projects\VSProj\!Git Repositories\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe.config
+D:\Projects\VSProj\!Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\!Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe.config
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.exe
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\bin\Debug\СonvolutionalСode.pdb
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csprojResolveAssemblyReference.cache
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.FM_Main.resources
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.Properties.Resources.resources
+D:\Projects\VSProj\.Git Repositories\ConvolutionalСode\СonvolutionalСode\obj\Debug\СonvolutionalСode.csproj.GenerateResource.Cache
